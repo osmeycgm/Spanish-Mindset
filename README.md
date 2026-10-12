@@ -20,3 +20,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # Desafio-20
 # Desafio-21
 # Desafio-22
+# Spanish-Mindset
