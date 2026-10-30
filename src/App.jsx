@@ -1,7 +1,8 @@
-import Unidad1 from './Components/EspañoUnit1/Unidad1.jsx'
+import React from 'react';
+import Inicio from './Components/EspañoUnit1/Inicio.jsx';
 
 function App() {
-  return <Unidad1 />
+  return <Inicio />;
 }
 
-export default App
+export default App;
